@@ -1,0 +1,21 @@
+theme: jekyll-theme-cayman
+
+title: Stock Portfolio Tracker API
+description: A modern REST API for real-time stock portfolio management
+show_downloads: true
+google_analytics:
+
+# Theme settings
+markdown: kramdown
+highlighter: rouge
+
+# Custom settings
+github:
+  is_project_page: true
+  repository_url: https://github.com/Roshanet/portfolio-tracker
+
+# Footer customization
+footer:
+  show_edit_on_github: false
+  show_github_pages_notice: false
+  custom_text: "Copyright © 2025 Roshanet Stock Portfolio Tracker. All rights reserved." 
